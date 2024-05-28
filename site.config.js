@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "S4mper",
-    image: "/HD-wallpaper-spiderman-black.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatarCybSec.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Cybersecurity Student",
     bio: "I post my Write-Ups on different languages, including English and Spanish.",
     email: "contactos4mper@gmail.com",
